@@ -1,4 +1,4 @@
-This is Tic Tac Toe game.
+This is Tic Tac Toe game for two players. One of the players can choose 'x' and the other one can choose 'o'.
 
 
 Requirements :
